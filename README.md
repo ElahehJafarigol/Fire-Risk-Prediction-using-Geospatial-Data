@@ -58,3 +58,20 @@ Install all required packages:
 
 ```bash
 pip install geopandas xarray pyhdf h5py
+
+🚀 How to Run
+This pipeline is designed to be run in Google Colab for ease of data access and scripting. You will need to upload relevant shell scripts and data into your Drive and mount it.
+
+📂 Directory Structure
+
+/Fire
+│
+├── train_data_collection_and_preparation.py
+├── data_loader.py
+├── vegetation-filtered-download.sh
+├── elevation-download.sh
+├── *.shp, *.hdf, *.nc files
+└── Fire_Risk_Data.csv
+
+🧾 License
+This repository is open source and available under the MIT License.
