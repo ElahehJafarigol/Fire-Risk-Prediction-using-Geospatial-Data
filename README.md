@@ -1,10 +1,10 @@
-# 🔥 Wildfire Risk Modeling - Data Collection Pipeline
+# 🔥 Wildfire Risk Modeling
 
 This repository contains code to automate the download, processing, and integration of diverse geospatial and environmental datasets needed for wildfire risk assessment in California.
 
 ---
 
-## 📌 Overview
+## 📌 Overview -  Data Collection Pipeline
 
 This script prepares a unified dataset from the following sources:
 
