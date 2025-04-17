@@ -67,7 +67,7 @@ This pipeline is designed to be run in Google Colab for ease of data access and 
 /Fire
 │
 ├── train_data_collection_and_preparation.py
-├── data_loader.py
+├── modules.py
 ├── vegetation-filtered-download.sh
 ├── elevation-download.sh
 ├── *.shp, *.hdf, *.nc files
